@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWithRedis.WCF.Library", "FSharpWithRedis.WCF.Library\FSharpWithRedis.WCF.Library.fsproj", "{3DC33011-9386-4E5B-A696-7919092A56B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpWithRedis.WCF.Service", "FSharpWithRedis.WCF.Service\FSharpWithRedis.WCF.Service.csproj", "{9F957F68-B148-4EDC-A9A8-74A30FDC121A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC33011-9386-4E5B-A696-7919092A56B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC33011-9386-4E5B-A696-7919092A56B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC33011-9386-4E5B-A696-7919092A56B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC33011-9386-4E5B-A696-7919092A56B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F957F68-B148-4EDC-A9A8-74A30FDC121A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F957F68-B148-4EDC-A9A8-74A30FDC121A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F957F68-B148-4EDC-A9A8-74A30FDC121A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F957F68-B148-4EDC-A9A8-74A30FDC121A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
